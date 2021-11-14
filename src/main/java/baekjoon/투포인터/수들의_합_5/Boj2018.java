@@ -2,7 +2,7 @@ package baekjoon.투포인터.수들의_합_5;
 
 import java.util.Scanner;
 
-public class Obj2018 {
+public class Boj2018 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();

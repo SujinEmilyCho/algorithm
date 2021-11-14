@@ -5,7 +5,7 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.Scanner;
 
-public class Obj2309 {
+public class Boj2309 {
     public static void main(String[] args) {
         List<Integer> heights = new ArrayList<>();
         int totalHeight = 0;
