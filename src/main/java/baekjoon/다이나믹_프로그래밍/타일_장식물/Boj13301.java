@@ -1,4 +1,4 @@
-package baekjoon.다이나믹_프로그래밍.BABBA.타일_장식물;
+package baekjoon.다이나믹_프로그래밍.타일_장식물;
 
 import java.util.Scanner;
 
